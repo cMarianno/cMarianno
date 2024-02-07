@@ -41,4 +41,6 @@
             target="_blank"></a>
     <a href="https://www.linkedin.com/in/caio-mariano-229964117/" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+![Snake animation](https://github.com/cMarianno/cMarianno/blob/output/github-contribution-grid-snake.svg)
 </div>
